@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Sude
 
-<!--
-**scarleny/scarleny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 SAP Fiori (UI5) Developer & Frontend Enthusiast
+🌐 Building modern web interfaces with HTML & CSS
+📊 Interested in dashboards, UI design and user experience
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on
+SAP Fiori Dashboard applications (Product, Stock, Analytics)
+UI5-based calendar and event features
+Personal web UI projects using HTML & CSS
+🌱 I’m currently learning
+Advanced SAP UI5
+JavaScript (deeper concepts)
+Responsive web design
+📫 How to reach me
+LinkedIn: https://www.linkedin.com/in/sudeozcelik/
+⚡ Fun fact
+Never back down never what ? 
