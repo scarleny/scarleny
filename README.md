@@ -14,8 +14,8 @@ Advanced SAP UI5
 JavaScript (deeper concepts)  
 Responsive web design
 
-📫 How to reach me
+📫 How to reach me  
 LinkedIn: https://www.linkedin.com/in/sudeozcelik/
 
-⚡ Fun fact
+⚡ Fun fact  
 Never back down never what ? 
